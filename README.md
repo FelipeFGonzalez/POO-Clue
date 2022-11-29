@@ -55,7 +55,9 @@ Nome da sala que está no envelope
 Número de jogadores
 (
 Nome do suspeito
+
 Bloco de notas (ex: true,true,false,false,false...)
+
 Cartas separadas por ‘,’ (ex: Cozinha, Faca...)
 Jogador eliminado (true se o jogador estiver eliminado, false caso contrário)
 ) Para cada jogador
