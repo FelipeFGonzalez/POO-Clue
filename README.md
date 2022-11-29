@@ -50,30 +50,51 @@ Quarta Iteração	14/11/2022	27/11/2022
 Para salvar o estado de uma partida, foi utilizado o seguinte formato para os arquivos:
 
 Nome do suspeito que está no envelope
+
 Nome da arma que está no envelope
+
 Nome da sala que está no envelope
+
 Número de jogadores
+
 (
+
 Nome do suspeito
 
 Bloco de notas (ex: true,true,false,false,false...)
 
 Cartas separadas por ‘,’ (ex: Cozinha, Faca...)
+
 Jogador eliminado (true se o jogador estiver eliminado, false caso contrário)
+
 ) Para cada jogador
+
 Sala da Corda
+
 Sala do Cano de Chumbo
+
 Sala da Faca
+
 Sala da Chave Inglesa
+
 Sala do Castiçal
+
 Sala do Revólver
+
 Posição do Coronel Mustard (x,y)
+
 Posição do Professor Plum (x,y)
+
 Posição do Reverendo Green (x,y)
+
 Posição da Sra. Peacock (x,y)
+
 Posição da Sra. White (x,y)
+
 Posição da Srta. Scarlet (x,y)
+
 Turno atual
+
 Palpite (true se o botão palpite estiver habilitado, false caso contrário)
 
 
